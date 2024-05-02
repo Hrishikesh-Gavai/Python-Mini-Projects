@@ -36,3 +36,32 @@ Welcome to our collection of Python projects developed during our college course
 <a href="https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/blob/main/Mini%20Project%20Codes/Floating%20Squares%20Animation.py">
     <img src="https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/assets/168000487/e3e76c96-332c-42ba-8605-26e4a9237432" width="100" height="100">
 </a>
+
+
+## *🔥 How To Run 🎴*
+
+
+1. Install Python 3.12 for Windows: https://www.python.org/
+
+2. open Windows Command Prompt and install:
+
+```
+pip install pygame
+```
+
+```
+pip install matplotlib
+```
+
+```
+pip install numpy
+```
+
+3. Now just copy the codes and paste them in Python IDLE and run.
+4. You can also download the files given above and run them directly provided above mentioned packages and Python IDLE are installed.
+
+
+## *🔥 Credits 🎴*
+
+
+F. Y. BTech Computer Engineering, KKWIEER.
