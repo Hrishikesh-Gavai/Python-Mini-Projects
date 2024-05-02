@@ -9,8 +9,8 @@ CLick The Icons For The Codes
 
 
 Classic Snake Game:
-[![Snake Game](https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/assets/168000487/e49888ae-578e-4193-9a40-126034531f5d)](https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/blob/main/Snake%20Game.py)
+[![Classic Snake Game](https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/assets/168000487/e49888ae-578e-4193-9a40-126034531f5d)](https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/blob/main/Snake%20Game.py)
 
 
 Simple Car Game:
-[![Snake Game](https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/assets/168000487/e49888ae-578e-4193-9a40-126034531f5d)](https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/blob/main/Snake%20Game.py)
+[![Simple Car Game](https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/assets/168000487/b01511f5-12d5-4ab4-8229-311fa41e93f6)](https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/blob/main/Simple%20Car%20Game.py)
