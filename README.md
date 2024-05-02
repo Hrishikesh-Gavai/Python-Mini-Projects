@@ -8,6 +8,6 @@ Welcome to our collection of Python projects developed during our college course
 
 
 Classic Snake Game:
-[![GitHub Repository](https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/blob/main/Snake%20Game.py)
+[![Snake Game](🐍)(https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/blob/main/Snake%20Game.py)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/R3gm/SoniTranslate/)
