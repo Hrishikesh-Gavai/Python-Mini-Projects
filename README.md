@@ -43,7 +43,7 @@ Welcome to our collection of Python projects developed during our college course
 
 1. Install Python 3.12 for Windows: https://www.python.org/
 
-2. open Windows Command Prompt and install:
+2. Open Windows Command Prompt and install:
 
 ```
 pip install pygame
