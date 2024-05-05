@@ -66,7 +66,8 @@ pip install numpy
 
 F. Y. BTech Computer Engineering, KKWIEER.
 
-Project Report:
+
+## *🔥 Project Report 🎴*
 
 <a href="https://drive.google.com/file/d/10saoVdaMFslHNRwNwtMfsmg3FVzqtF0C/view?usp=drive_link">
     <img src="https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/assets/168000487/5a307c06-f683-4dea-9e9f-3c6601095b19" width="100" height="100">
